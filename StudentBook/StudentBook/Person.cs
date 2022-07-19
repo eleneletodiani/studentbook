@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace StudentBook
 {
-    internal class Program
+    internal class Person
     {
-        static void Main(string[] args)
-        {
+        public string FirstName;
+        public string LastName;
+        public string Age;
 
-        }
     }
 }
